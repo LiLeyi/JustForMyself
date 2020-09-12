@@ -92,8 +92,8 @@
         <br><br><br><br><br>
         <p>有些人啊，脑子里都装的是什么黄色废料呢</p>
         <br><br><br><br><br>
-        <img src="a.jpg" alt="sb">
+        <p><img src="a.jpg" alt="sb"></p>
         <br><br><br><br><br>
-        <img src="b.jpg" alt="avatar">
+        <p><img src="b.jpg" alt="avatar"></p>
     </body>
 </html>
